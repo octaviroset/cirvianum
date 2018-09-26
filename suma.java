@@ -2,8 +2,9 @@
 int numero1 = 0;
 int numero2 = 0;
 
-System.out.println("Introdueix el primer numero:");
+
+System.out.println("Input the first number:");
 numero1 = reader.nextInt();
 
-System.out.println("Introdueix el segon numero:");
+System.out.println("Input the second number:");
 numero2 = reader.nextInt();
